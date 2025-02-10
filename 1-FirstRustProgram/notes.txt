@@ -1,0 +1,15 @@
+#Rust
+fn - stands for function
+main - everything is ran here
+println! - print line. ! is for macro
+
+#Compiling code in Terminal
+rustc <filename.rs> - Rust Compile, creates the executable filename
+rustc main.rs -> + main.exe + main.pdb
+
+#Running code in Terminal
+.\<filename.exe> - runs compiled code - WINDOWS
+./<filename> - runs compiled code - LINUX/MAC
+
+.\main.exe -> Hello, world! - WINDOWS
+./main -> Hello, world! - LINUX/MAC
