@@ -1,0 +1,15 @@
+#Rust Tool Cargo in Terminal
+
+cargo - checks if cargo is installed/working if currently in use
+cargo new <filename> - creates a project package with src directory containing main.rs
+cargo - (in cargo project) compiles and runs project just like rustc 
+cargo build - compiles all of the code, set up dependencies
+cargo run - compile and automatically run the code
+cargo check - checks project, checks code without compiling
+
+rustfmt <filename> - automatically formats code
+
+#Files/folder
+.lock - keeps track of all of the versions of the dependencies
+target (folder) - contains the executable file
+src (folder) - entry point
