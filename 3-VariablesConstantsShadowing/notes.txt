@@ -1,0 +1,14 @@
+#Rust code
+
+let <variable name> - creates a variable that can be assigned a value, this lets the compiler decide the type, but can also be used to redefine
+let x: <type> - assigns type manually
+    u32 - integer 32 type
+
+mut - allows a variable to be changed
+
+("a is: {}", a) - embed the value of a inside the cbraces in the output
+
+const - value and type cannot change once it is defined - Usually Full Caps and underscores: SECONDS_IN_MINUTE
+
+#Terminal
+cls - clear Terminal
