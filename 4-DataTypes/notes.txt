@@ -1,0 +1,21 @@
+#Data types
+Scalar data type is something that has a finite set of possible values,following some scale. - int,bool,char
+Compound Data type any data which can be constructed in a program using the programming language's primitive data types
+ and other composite types - array,tuple
+
+#Syntax Scalar Types
+let x: u32 = 2; - assign unsigned integer that using 32bits
+f32 f64 - floating point numbers, can store decimals 
+bool - true or false// 0 or 1
+char - single character, use of single quotes.
+
+#Syntax Compound Types
+tup - creates a tuple, holds multiple types
+tup.<number> - access tuple index
+
+arr - creates an array, holds same type
+arr[<number>] - access array index
+
+
+#other
+/* */ - multi line comment
