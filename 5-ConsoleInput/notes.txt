@@ -1,0 +1,13 @@
+#Prelude
+the list of things that rust automatically imports into every rust program. It kept as small as possible and is focused on things,
+particularly traits, which are used in almost every single rust program
+allows us to use functions from the Rust Standard Library without manually importing
+
+#Crate = Package or Library
+these have a module, a piece of functionality like the IO module
+
+#Syntax
+use std::io; - this tells the compiler to use the std library to bring in the IO module
+:: - path seperator operator, package to module, module to function/method
+String::new() - creates an empty string to wait a new change
+.expect - is used to handle any errors that may occur
