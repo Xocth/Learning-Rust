@@ -1,0 +1,29 @@
+#Stack & Heap
+Two different sections of RAM
+
+#Stack
+The last piece of information is the first piece of information out. // Just like a stack of plates
+LIFO - Last in, First out
+FILO - First in, Last out
+
+Fastest - priortise when possible
+
+Each value has an unique address in the RAM
+Creates pointers which are a value stored in the stack which contains the address of a value stored in the heap
+
+#Scope
+The function that is defined inside of or the block that it is defined inside
+like fn main() - is the main scope
+
+#Heap
+Stores values that are not fixed (will change)
+
+Slower
+
+#Memory Management 
+variables that arent used take up RAM
+
+#Summary
+we want to optimise programs to use the stack as much as possible
+and avoid using the heap where you can
+although rust is a fast programming language overall
