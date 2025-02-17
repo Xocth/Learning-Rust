@@ -1,0 +1,18 @@
+#Condition
+> - greater thnn
+< - less than
+>= - greater than or equal to
+<= - less than or equal to
+== - is equal to
+!= - not equal to
+
+#logical operators
+&& - and 
+|| - or
+! - not
+
+
+#control flow
+if - runs condition if statement is true/false
+else if - after if statement and before else, allows for another condition
+else - other task when if statement doesnt run
