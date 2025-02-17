@@ -1,0 +1,3 @@
+
+fn - function that can be called in main function, can be written anywhere.
+-> - return operator in rust
