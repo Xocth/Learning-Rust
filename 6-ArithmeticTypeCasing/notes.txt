@@ -1,0 +1,13 @@
+#Underscores can be used in numbers to make them more readable as they are ignored by the compiler examples:
+let x = 127_000
+let y = 10_i64
+
+#Assign using as keyword:
+let x = 10 as i64;
+
+#explicit type conversion
+    let x = 127_000 as i64; 
+    let y = 10_i32; 
+
+    let z = x / (y as i64); // this is a cast operation / brackets arent necessary but for clarity
+    println!("z: {}", z); // explicit type conversion
