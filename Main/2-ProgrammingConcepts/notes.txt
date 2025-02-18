@@ -1,0 +1,41 @@
+## Variables
+- `let` - Declares a variable.
+- `mut` - Makes a variable mutable.
+- `const` - Declares a constant (always immutable).
+shadowing - Allows re-declaring a variable with a new value and type.
+
+## Data Types
+
+### Integers
+- `i32` - 32-bit signed integer.
+- `u8` - 8-bit unsigned integer.
+- Literals: Decimal, Hex (`0xff`), Octal (`0o77`), Binary (`0b1111_0000`), Byte (`b'A'`).
+
+### Floating-point numbers
+- `f32` - 32-bit floating-point.
+- `f64` - 64-bit floating-point.
+
+### Boolean
+- `bool` - `true` or `false`.
+
+### Character
+- `char` - Unicode scalar values (e.g., `'z'`, `'ℤ'`, `'😻'`).
+
+### Compound types
+- `tuple` - Group multiple values with different types (e.g., `(i32, f64, u8)`).
+
+## Arithmetic Operations
+- Addition (`+`)
+- Subtraction (`-`)
+- Multiplication (`*`)
+- Division (`/`)
+- Remainder (`%`)
+
+## Functions
+- `fn` - Defines a function.
+- `println!` - Macro for printing to the console.
+- `arguments_function(x: i32)` - Function with an argument.
+
+## Example Functions
+- `my_function()` - Prints "Function called!".
+- `arguments_function(x: i32)` - Prints the value of `x`.
