@@ -1,0 +1,11 @@
+C:\Users\thisi\Documents\GitHub\Learning-Rust\main\GuessingGame\cargo\target\debug\deps\librand_core-3b9411d455a1798c.rmeta: C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\lib.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\block.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\impls.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\le.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\os.rs
+
+C:\Users\thisi\Documents\GitHub\Learning-Rust\main\GuessingGame\cargo\target\debug\deps\librand_core-3b9411d455a1798c.rlib: C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\lib.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\block.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\impls.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\le.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\os.rs
+
+C:\Users\thisi\Documents\GitHub\Learning-Rust\main\GuessingGame\cargo\target\debug\deps\rand_core-3b9411d455a1798c.d: C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\lib.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\block.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\impls.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\le.rs C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\os.rs
+
+C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\lib.rs:
+C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\block.rs:
+C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\impls.rs:
+C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\le.rs:
+C:\Users\thisi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.1\src\os.rs:

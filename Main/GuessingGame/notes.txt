@@ -1,0 +1,26 @@
+::new() - Creates an empty string.
+
+# Dependencies
+- `rand` in Cargo.toml (run `cargo build` after adding).
+- `colored` for colored text.
+
+# Usage
+
+## Random Number Generation
+- `use rand::Rng;` - Brings `rand` RNG into scope.
+- `rand::thread_rng()` - Generates a random number generator.
+- `gen_range()` - Generates a number within a range.
+
+## Input/Output
+- `use std::io;` - For handling standard input/output.
+- `read_line()` - Reads a line from standard input.
+- `trim()` - Removes whitespace from a string.
+- `parse()` - Parses a string into a number.
+
+## Control Flow
+- `use std::cmp::Ordering;` - For comparing values.
+- `match` - Control flow construct for pattern matching.
+
+## Text Coloring
+- `red()` - Colors text red.
+- `green()` - Colors text green.
