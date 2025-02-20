@@ -1,0 +1,29 @@
+#Ownership
+Memory management
+Garbage collection - error free, faster write time but no control over Memory slower and larger.
+Manual - small and faster but prone to errors and slower write time.
+Ownership model (What rust uses)- control over Memory, error free, faster runtime and smaller program size.
+However there is still slower write time and a learning curve
+Compiler checks for memory being safe by default but u can opt out.
+
+#Ownership rules
+1. Each value in Rust has a variable that’s called its owner.
+2. There can only be one owner at a time.
+3. When the owner goes out of scope, the value will be dropped.
+
+#Stack and Heap
+Stack - Stores values in a last-in, first-out order. Fast access, but limited size.
+Heap - Stores values with dynamic size. Slower access, but flexible size. Managed via ownership.
+Stack is used for fixed-size data, while heap is used for dynamically sized data.
+
+#Lifetime
+Defines the scope for which a reference is valid. Ensures memory safety by preventing dangling references.
+Lifetimes are checked at compile time to ensure all references are valid.
+
+#References
+Allows borrowing of values without taking ownership. Immutable by default, mutable references must be explicitly declared.
+References enable multiple parts of code to access data without needing to copy it.
+
+#Slices
+A view into a contiguous sequence of elements in a collection. Does not own the data, just references it.
+Slices are used to access parts of arrays, strings, or other collections.
