@@ -1,0 +1,16 @@
+# Structs
+Structs are used to create custom data types. They are defined using the `struct` keyword.
+
+# Method
+Methods are functions defined within the context of a struct, enum, or trait object. They are defined using the `impl` keyword.
+
+# Associated function
+Associated functions are functions that are associated with a struct, enum, or trait object but do not take `self` as a parameter. They are often used for constructors.
+
+# Tuple Structs
+Tuple structs are similar to regular structs, but their fields do not have names. They are useful for simple structures.
+
+# Tips
+- Use `..` syntax to copy remaining fields from another instance.
+- Use field init shorthand when the variable name matches the field name.
+- Use tuple structs for simple data grouping without field names.
