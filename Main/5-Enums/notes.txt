@@ -1,0 +1,16 @@
+# Enum
+Enums are used to define a type by enumerating its possible variants. Each variant can optionally have associated data.
+
+# Struct
+Structs are used to create custom data types. They can be regular structs, tuple structs, or unit structs.
+
+# Pattern Matching
+Pattern matching is used to match a value against a series of patterns and execute code based on which pattern matches.
+The `match` keyword is used for pattern matching.
+
+# Tips
+- Enums can have variants with different types and amounts of associated data.
+- Use `impl` to define methods on enums.
+- Use pattern matching to handle different enum variants.
+- The `Option` enum is a powerful tool for handling nullable values safely.
+- Use the `match` expression to destructure enums and execute code based on their variants.
