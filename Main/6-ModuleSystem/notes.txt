@@ -1,0 +1,23 @@
+# Packages and Crates
+Packages are a bundle of one or more crates. A crate is a binary or library. The `Cargo.toml` file defines a package.
+
+# Defining Modules
+Modules are used to organize code within a crate. They are defined using the `mod` keyword.
+
+# Paths
+Paths are used to refer to items such as functions, structs, and modules. They can be absolute or relative.
+
+# Module Privacy Rules
+Modules can be public or private. By default, everything in a module is private. Use the `pub` keyword to make items public.
+
+# The Use Keyword
+The `use` keyword is used to bring paths into scope, making it easier to refer to items.
+
+# Nested Paths
+Nested paths allow you to bring multiple items into scope with a single `use` statement.
+
+# Glob operator
+The glob operator (`*`) is used to bring all items from a module into scope.
+
+# Modules in separate files
+Modules can be split into separate files to keep the codebase organized. The `mod` keyword is used to declare the module, and the file name matches the module name.
